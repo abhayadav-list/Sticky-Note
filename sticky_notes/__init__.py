@@ -1,0 +1,1 @@
+"""Windows sticky notes application."""
